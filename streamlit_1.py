@@ -43,7 +43,7 @@ st.markdown(f'<hr style="height:2px;border:none;color:#333;background-color:#333
 # main working of face detection
 st.header("Haar Cascade")
 
-st.write('Click Below to Instantiate')
+st.write('Click Below to Start')
 st.write("Enter 'q' to Exit")
 
 if st.button("START"):
